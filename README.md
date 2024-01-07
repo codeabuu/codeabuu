@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullahi Ngui</h1>
 <h3 align="center">Backend Whisperer ‍♀️ Building Full-Stack Dreams by night✨</h3>
 
-<img align="right" alt='Coding' width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp?cid=ecf05e47h96oo2v1t578gjifa6hzp5ayz2cq61slz0owg0u7&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt='Coding' width="200" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp?cid=ecf05e47h96oo2v1t578gjifa6hzp5ayz2cq61slz0owg0u7&ep=v1_gifs_search&rid=200.webp&ct=g">
 - 🌱 I’m currently learning **Java, Swift**
 
 - 📫 How to reach me **abdulngui718@gmail.com**
