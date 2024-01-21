@@ -2,11 +2,11 @@
 <h3 align="center">Backend Whisperer ‍♀️ Building Full-Stack Dreams by night✨</h3>
 
 <img align="right" alt='Coding' width="200" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp?cid=ecf05e47h96oo2v1t578gjifa6hzp5ayz2cq61slz0owg0u7&ep=v1_gifs_search&rid=200.webp&ct=g">
-- 🌱 I’m currently learning **Java, Swift**
+- 🌱 I’m currently learning **Java, Swift, kotlin, rust**
 
 - 📫 How to reach me **abdulngui718@gmail.com**
 
-- ⚡ Fun fact **I can solve LeetCode problems with my pinky toe tied to my nose😉**
+- ⚡ Fun fact **☕ I'm convinced that 99% of all programming problems can be solved with coffee and patience**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
