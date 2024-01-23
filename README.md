@@ -7,6 +7,9 @@
 - 📫 How to reach me **abdulngui718@gmail.com**
 
 - ⚡ Fun fact **☕ I'm convinced that 99% of all programming problems can be solved with coffee and patience**
+<br>
+[![committers.top badge](https://user-badge.committers.top/kenya/codeabuu.svg)](https://user-badge.committers.top/kenya/codeabuu)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
